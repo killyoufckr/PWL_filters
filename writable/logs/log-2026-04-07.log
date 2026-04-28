@@ -1,0 +1,108 @@
+CRITICAL - 2026-04-07 01:15:11 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:15:27 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:15:46 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:17:21 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:20:03 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:24:56 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:25:02 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:27:53 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
+CRITICAL - 2026-04-07 01:27:54 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\main/index"
+[Method: GET, Route: main]
+in SYSTEMPATH\Router\Router.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(523): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\main/index')
+ 2 SYSTEMPATH\Router\Router.php(225): CodeIgniter\Router\Router->checkRoutes('main')
+ 3 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('main')
+ 4 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\PWL\\codeigniter4-framework-b3359be\\public\\index.php')
